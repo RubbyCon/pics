@@ -1,10 +1,10 @@
 #EXTM3U url="https"
-#EXTINF:-1 tvg-id="Wness tv.us" tvg-name="Wness tv" tvg-country="US" tvg-language="French" tvg-logo="https://www.wnesstv.com/wp-content/uploads/2019/08/wness-logo-f.png" tvg-url="" group-title="",3ABN Français
+#EXTINF:-1 tvg-id="wnesstv.us" tvg-name="wness tv" tvg-country="" tvg-language="" tvg-logo="https://www.wnesstv.com/wp-content/uploads/2019/08/wness-logo-f.png" tvg-url="" group-title="",wnesstv
 https://wness103.neterra.tv/wness/wness.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-country="FR;CH" tvg-language="French" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-url="" group-title="",6ter (576p)
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
-#EXTINF:-1 tvg-id="ActionMovies.fr" tvg-name="Action Movies" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" tvg-url="" group-title="",Action Movies
-https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="mytv" tvg-country="FR;CH" tvg-language="" tvg-logo="https://mytvkids.com/wp-content/uploads/2019/08/MyTv.png" tvg-url="" group-title="",Mytv channel
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="hbo.fr" tvg-name="hbo" tvg-country="FR" tvg-language="French" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/680f90a5-35e4-4f31-b1b6-ee9b3e8fda12/dd6ubpn-e4af064a-4890-4617-9c31-42ac884b84e8.png/v1/fill/w_1024,h_415,strp/hbo_official_silver_white_logo_by_teamrocketdjvgboy123_dd6ubpn-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00MTUiLCJwYXRoIjoiXC9mXC82ODBmOTBhNS0zNWU0LTRmMzEtYjFiNi1lZTliM2U4ZmRhMTJcL2RkNnVicG4tZTRhZjA2NGEtNDg5MC00NjE3LTljMzEtNDJhYzg4NGI4NGU4LnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.3jFY75HjyFv4CsQ5ZMOg7tboegldm_MYS6oKKTZnOqI" tvg-url="" group-title="",HBO
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716158286521294296370_3103304395_TVFIPJEShttp://M2153683141.wo2.co/o.php?6949003927915110_164589908716158286521294296370_3103304395_TVFIPJES
 #EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-name="Alpe d’Huez TV" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/0RQvs8y.png" tvg-url="" group-title="",Alpe d’Huez TV
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="Alsace 20" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" tvg-url="" group-title="Local",Alsace 20 (720p)
@@ -75,10 +75,4 @@ https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-name="Congo Planet Television" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/KiyYqPK.jpg" tvg-url="" group-title="General",Congo Planet Television (1080p)
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
-#EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-name="Congo Planet Television" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/KiyYqPK.jpg" tvg-url="" group-title="General",Congo Planet Television (1080p)
-https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8
-#EXTINF:-1 tvg-id="ConsoTVAfrique.cm" tvg-name="Conso TV Afrique" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/BMB9xq3.png" tvg-url="" group-title="",Conso TV Afrique (480p)
-http://connectiktv.ddns.net:5000/consotv/consotv/playlist.m3u8
-#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/wwmapsS.png" tvg-url="" group-title="Legislative",CPAC (720p)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-#EXTINF:-1 tvg-id="DieuTV.ch" tvg-name="Dieu TV" tvg-country="CH" tvg-
+#EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-name="Congo Planet Television" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/KiyYqPK.jpg" tvg-url="" group-title="General",Congo Planet Television (108
