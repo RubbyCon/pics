@@ -1,5 +1,5 @@
 #EXTM3U url="https"
-#EXTINF:-1 tvg-id="3ABNFrancais.us" tvg-name="3ABN Français" tvg-country="US" tvg-language="French" tvg-logo="https://www.wnesstv.com/wp-content/uploads/2019/08/wness-logo-f.png" tvg-url="" group-title="",3ABN Français
+#EXTINF:-1 tvg-id="Wness tv.us" tvg-name="Wness tv" tvg-country="US" tvg-language="French" tvg-logo="https://www.wnesstv.com/wp-content/uploads/2019/08/wness-logo-f.png" tvg-url="" group-title="",3ABN Français
 https://wness103.neterra.tv/wness/wness.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-country="FR;CH" tvg-language="French" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-url="" group-title="",6ter (576p)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
